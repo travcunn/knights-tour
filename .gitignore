@@ -1,0 +1,21 @@
+*.db
+build
+dist
+venv
+.vagrant
+.static
+.coverage
+tests.xml
+<fdopen>
+
+# python specific
+__pycache__
+*.pyc
+
+# vim swp files
+*.swp
+*.swo
+*~
+
+nosetests.xml
+
